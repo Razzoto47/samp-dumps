@@ -1,6 +1,6 @@
 <div align="center">
 <h4>SA:MP Cheats</h4>
- <h4>**[SA-MP Cheating Discord](https://discord.gg/Kc4qjb9s)**</h4>
+https://discord.gg/V5QkebJvW6
 </div>
 
 </div>
